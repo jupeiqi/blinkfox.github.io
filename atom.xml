@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Peiqi Blog</title>
+  
+  <subtitle>青囊卖卜</subtitle>
+  <link href="https://jupeiqi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jupeiqi.github.io/"/>
+  <updated>2022-12-06T01:11:16.917Z</updated>
+  <id>https://jupeiqi.github.io/</id>
+  
+  <author>
+    <name>jupeiqi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>同步更新别人的仓库</title>
+    <link href="https://jupeiqi.github.io/2022/12/05/synchronize-updates-to-other-repositories/"/>
+    <id>https://jupeiqi.github.io/2022/12/05/synchronize-updates-to-other-repositories/</id>
+    <published>2022-12-05T19:35:34.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;删除重新-fork&quot;&gt;&lt;a href=&quot;#删除重新-fork&quot; class=&quot;headerlink&quot; title=&quot;删除重新 fork&quot;&gt;&lt;/a&gt;删除重新 fork&lt;/h3&gt;&lt;p&gt;fork 别人的仓库后，别人更新时，可以直接删除自己的仓库，然后重新 fork</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>experiences of journalism</title>
+    <link href="https://jupeiqi.github.io/2022/11/30/experiences-of-journalism/"/>
+    <id>https://jupeiqi.github.io/2022/11/30/experiences-of-journalism/</id>
+    <published>2022-11-30T16:46:09.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote class=&quot;pullquote mindmap</summary>
+        
+      
+    
+    
+    
+    
+    <category term="摘录" scheme="https://jupeiqi.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深度定制Hexo博客</title>
+    <link href="https://jupeiqi.github.io/2022/11/30/shen-du-ding-zhi-hexo-bo-ke/"/>
+    <id>https://jupeiqi.github.io/2022/11/30/shen-du-ding-zhi-hexo-bo-ke/</id>
+    <published>2022-11-30T14:14:40.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h2&gt;&lt;h4 id=&quot;PWA&quot;&gt;&lt;a href=&quot;#PWA&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="计算机" scheme="https://jupeiqi.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快递小哥</title>
+    <link href="https://jupeiqi.github.io/2022/11/19/express-delivery-boy/"/>
+    <id>https://jupeiqi.github.io/2022/11/19/express-delivery-boy/</id>
+    <published>2022-11-19T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;上班早高峰，一快递小哥，在十字路口，被交警拦了下来，闯红灯不带头盔，罚款二十元。&lt;/p&gt;
+&lt;p&gt;小哥领了罚单骑上车就走，骑到路中间，有点不甘，掏出罚单看看。&lt;/p&gt;
+&lt;p&gt;“嘭”的一身，一辆出租车撞了上来，小哥人仰车翻。&lt;/p&gt;
+&lt;p&gt;路边交警赶紧过来，任务二连，顺便给小哥</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黄金四分钟</title>
+    <link href="https://jupeiqi.github.io/2022/11/19/four-minutes/"/>
+    <id>https://jupeiqi.github.io/2022/11/19/four-minutes/</id>
+    <published>2022-11-19T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;据统计我国每年至少有60多万人发生猝死，而80%的猝死发生在院外。在我国院外心肺复苏抢救成功率仅只有1%，很多鲜活的生命往往就在黄金4分钟内离我们而去。&lt;/p&gt;
+&lt;p&gt;下面我请大家看两个猝死的案例，相信各位通过这两个案例可以有所启发。&lt;br&gt;案例1：高以翔&lt;br&gt;案例2：埃</summary>
+        
+      
+    
+    
+    
+    
+    <category term="科普" scheme="https://jupeiqi.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>芳强故事</title>
+    <link href="https://jupeiqi.github.io/2022/11/15/fangqiang-story/"/>
+    <id>https://jupeiqi.github.io/2022/11/15/fangqiang-story/</id>
+    <published>2022-11-15T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;强子跟阿芳结婚好几年了，小孩也两三岁了，但是两人关系却越来越疏远。&lt;/p&gt;
+&lt;p&gt;强子在阿芳手机里装了监控软件。&lt;/p&gt;
+&lt;p&gt;今天一大早，强子就约上刚子偷偷跟着阿芳从成都飞到了江都。&lt;/p&gt;
+&lt;p&gt;阿芳终于在一家挺高级的宾馆住了下来。是小王早就定好的房间，小王住在隔壁市，</summary>
+        
+      
+    
+    
+    
+    
+    <category term="吃瓜日常" scheme="https://jupeiqi.github.io/tags/%E5%90%83%E7%93%9C%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好人</title>
+    <link href="https://jupeiqi.github.io/2022/11/12/good-guys/"/>
+    <id>https://jupeiqi.github.io/2022/11/12/good-guys/</id>
+    <published>2022-11-12T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我很喜欢一种人，他们天生喜欢管“闲事”，随便在哪里遇到别人可能需要帮助的，总会毫不犹豫的冲上前，但是他们充满热情，把自己的时间精力奉献给身边的人，即使有时候他们会把别人弄得哭笑不得，有时候因为不专业帮了倒忙，我仍然心存感激，感谢他们让我们的世界充满光。&lt;/p&gt;
+&lt;p&gt;我也很</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>secondary hospitals-stg</title>
+    <link href="https://jupeiqi.github.io/2022/11/12/secondary-hospitals-stg/"/>
+    <id>https://jupeiqi.github.io/2022/11/12/secondary-hospitals-stg/</id>
+    <published>2022-11-12T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Why-here&quot;&gt;&lt;a href=&quot;#Why-here&quot; class=&quot;headerlink&quot; title=&quot;Why here&quot;&gt;&lt;/a&gt;Why</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+    <category term="从入门到放弃" scheme="https://jupeiqi.github.io/tags/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 从入门到放弃</title>
+    <link href="https://jupeiqi.github.io/2022/11/11/hexo-stg/"/>
+    <id>https://jupeiqi.github.io/2022/11/11/hexo-stg/</id>
+    <published>2022-11-11T09:55:29.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="从入门到放弃" scheme="https://jupeiqi.github.io/tags/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83/"/>
+    
+    <category term="计算机" scheme="https://jupeiqi.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jekyll 从入门到放弃</title>
+    <link href="https://jupeiqi.github.io/2022/11/03/2022-11-3-jekyll-stg/"/>
+    <id>https://jupeiqi.github.io/2022/11/03/2022-11-3-jekyll-stg/</id>
+    <published>2022-11-03T09:55:29.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h3&gt;&lt;p&gt;想自建个博客玩玩，这在非计算机专业的牛马当中应该是件相当酷 awesome 的事情了。&lt;/p&gt;
+&lt;p&gt;在网上看了好多攻略，感觉就在</summary>
+        
+      
+    
+    
+    
+    
+    <category term="从入门到放弃" scheme="https://jupeiqi.github.io/tags/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83/"/>
+    
+    <category term="计算机" scheme="https://jupeiqi.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>芳强故事</title>
+    <link href="https://jupeiqi.github.io/2022/10/24/fangqiang-story/"/>
+    <id>https://jupeiqi.github.io/2022/10/24/fangqiang-story/</id>
+    <published>2022-10-24T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;后半夜，3点左右，强子打120说他老婆阿芳生病了，需要救护车，那是他在村里租的房子，说不清地址，120调度想要再详细询问时，强子手机信号不好，联系不上了。救护车只能先朝着大概方向跑。那村子在城市最南边，救护车花了半个多小时才开到大概位置，强子还把具体地址搞错了，又耽误了十几</summary>
+        
+      
+    
+    
+    
+    
+    <category term="吃瓜日常" scheme="https://jupeiqi.github.io/tags/%E5%90%83%E7%93%9C%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>院前一夜</title>
+    <link href="https://jupeiqi.github.io/2022/10/24/one-night-in-120/"/>
+    <id>https://jupeiqi.github.io/2022/10/24/one-night-in-120/</id>
+    <published>2022-10-24T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;又是一个忙碌的夜班，昨夜真是开了眼了，一个患者从4楼高坠落，尽然还能起身走路，还说没有哪里不舒服，让他跟我们去医院，还一个劲的不肯去。他晚上喝过酒，估计酒精的作用麻痹了他的神经。我看他坠落后有过一段时间的意识障碍，胸口也有压痛，还是很有必要去医院检查下的，好说歹说劝他上了救</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>远离大卡车</title>
+    <link href="https://jupeiqi.github.io/2022/10/22/stay-away-from-big-trucks/"/>
+    <id>https://jupeiqi.github.io/2022/10/22/stay-away-from-big-trucks/</id>
+    <published>2022-10-22T00:00:00.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天一起车祸，母亲骑电动车载着15岁女儿，在十字路口被大卡车撞到，在现场我先看到女儿，额头上约15公分的伤口，人还是清醒，路人提醒我，路中间卡车旁还有一个患者，我把手中棉垫交给同事，让她帮我处理这个女儿，我去看下那个母亲。这个母亲已没有呼吸，面部大面积皮肉外翻露骨，地上大量</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>客舍青青</title>
+    <link href="https://jupeiqi.github.io/2013/07/01/ke-she-qing-qing/"/>
+    <id>https://jupeiqi.github.io/2013/07/01/ke-she-qing-qing/</id>
+    <published>2013-07-01T00:00:01.000Z</published>
+    <updated>2022-12-06T01:11:16.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="美丽心情" scheme="https://jupeiqi.github.io/tags/%E7%BE%8E%E4%B8%BD%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
