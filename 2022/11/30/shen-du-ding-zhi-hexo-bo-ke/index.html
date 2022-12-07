@@ -681,14 +681,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    1.8k
+                    2.2k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    7 分
+                    8 分
                 </div>
                 
 
@@ -708,7 +708,9 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><h4 id="PWA"><a href="#PWA" class="headerlink" title="PWA"></a>PWA</h4><p>让 Hexo 支持 PWA 非常简单，但稍有不慎，真的可以采坑无数。</p>
+                <h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>建一个简洁的 hexo 真的非常简单快捷，但是加入一个一个插件的时候，就感觉有太多的坑，途中只解决了小部分问题，都在下面列出来了，还有很多问题，你所见博客中很多奇怪的页面，很多我都已经注意到了，但是就是无法解决，如果你恰巧看到我的博客的一些不合理之处，又知道如何解决，欢迎邮我评我issue我，感激不尽。</p>
+<h4 id="关于环境、插件"><a href="#关于环境、插件" class="headerlink" title="关于环境、插件"></a>关于环境、插件</h4><p>建博客的时候，都已经知道需要Node.js、Hexo、git、梯子、github帐号，但是使用 npm 安装插件时，即使使用了梯子加淘宝镜像 cnpm 加 yarn ，仍然有部分插件经常安装错误。直到我使用了 <strong>github</strong> 的 <strong>codespace</strong> ，我才发现原来使用 npm 安装插件没那么难， codespace 使用本地 <strong>VS Code</strong> 打开，与打开本地仓库几乎一样流畅，甚至不用配置ssh密钥，而且执行 <code>hexo deploy</code> 时，几乎不会因为连接不上报错，极力推荐。</p>
+<h4 id="PWA"><a href="#PWA" class="headerlink" title="PWA"></a>PWA</h4><p>让 Hexo 支持 PWA 非常简单，但稍有不慎，真的可以采坑无数。</p>
 <p>看了很多很多帖子，讲得最多的就是使用 hexo-pwa 插件，但是这个插件很久没更新了，仅支持 <a href="mailto:hexo@4.1.1">hexo@4.1.1</a> ，使用新版 hexo 请直接放弃 hexo-pwa</p>
 <p>hexo-workbox 插件，这个中途试过一次没成功，不知道是不是版本问题。</p>
 <p><strong>hexo-offline</strong> 插件，这个插件是最简单的，安装成功后零配置使用，我在 <strong><a href="mailto:hexo@6.3.0">hexo@6.3.0</a></strong> 上是成功使用的，但是在本地 <code>hexo s</code> 后浏览 <a target="_blank" rel="noopener" href="http://localhost:4000/">http://localhost:4000/</a> 并不成功，前后尝试了好几天，才发现，原来就本地无效，在 <code>hexo deploy</code> 后在浏览器中打开 <strong>github</strong> 博客主页是有效的。<br>只需要在 <strong>git bash</strong> 中执行 <code>npm install hexo-offline</code> ，然后 <code>hexo cl&amp;&amp;hexo g&amp;&amp;hexo deploy</code> 三联就行了。</p>
@@ -765,7 +767,10 @@ douban:
 <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 <ol start="3">
-<li>卸载豆瓣，执行<code>npm uninstall --save hexo-douban</code></li>
+<li><p>卸载豆瓣，执行<code>npm uninstall --save hexo-douban</code></p>
+</li>
+<li><p>在matery主题中，豆瓣有些问题，头部 <strong>在读 想读 已读</strong> 和底部翻页按钮点击时总是会跳转到一个空白页面，可以在 hexo-douban 插件目录中找到<strong>move.ejs、book.ejs、game、game.ejs、pagination.ejs</strong>，删除其中 <code>href="javascript:;</code> ，重新执行 <code>hexo douban</code> 即可。在 <strong>books-generator.js</strong> 文件中，更改 <code>layout: ['page', 'post']</code> ，可以重新选择一个自定义的模板来加载豆瓣数据。</p>
+</li>
 </ol>
 <h4 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h4><h5 id="修改博文头部背景"><a href="#修改博文头部背景" class="headerlink" title="修改博文头部背景"></a>修改博文头部背景</h5><ul>
 <li><p>打开 themes\hexo-theme-matery\source\medias\featureimages 文件夹，替换其中图片后，既可以更改博文头部背景图片，放入多张图片后，每个博文随机用其中一张。</p>
@@ -1655,7 +1660,7 @@ out-&gt;e</textarea><textarea id="flowchart-1-options" style="display: none">{"s
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">12.4k</span>&nbsp;字
+                class="white-color">12.8k</span>&nbsp;字
             
             
             
