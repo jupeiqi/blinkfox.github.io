@@ -151,7 +151,8 @@ indexbtn:
   enable: true
   name: 我的导航
   icon: fas fa-globe
-  url: /bookmark
+  url: https://pqnavi.github.io/
+
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
